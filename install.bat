@@ -1,0 +1,3 @@
+npm i axios
+echo "Successfully Installed now open start.bat or run by node index.js"
+PAUSE
